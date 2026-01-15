@@ -63,7 +63,7 @@ const NavigationBar = () => {
                 href="#"
                 className="rounded-md bg-[#10b981] px-4 py-2 text-sm font-medium text-white hover:bg-emerald-600"
               >
-                Get Started
+                Contact Us
               </Link>
             </div>
           </div>

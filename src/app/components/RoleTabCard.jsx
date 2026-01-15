@@ -8,13 +8,13 @@ const RoleTabCard = () => {
       <div className="w-full max-w-5xl">
         <div className="border-2 border-gray-200 rounded-xl shadow-lg p-6 bg-white">
           <TabGroup>
-            <TabList className="flex gap-2 mb-6">
+            <TabList className="flex justify-between gap-2 mb-6">
               {categories.map(({ name }) => (
                 <Tab
                   key={name}
-                  className="rounded-lg px-4 py-2 font-medium text-gray-700 
-                         data-hover:bg-gray-100 data-selected:bg-blue-600 
-                         data-selected:text-white transition-colors"
+                  className="rounded-md px-4 py-2 font-medium text-gray-700 
+                         data-hover:bg-gray-100 data-selected:bg-white 
+                         data-selected:text-grey-700 transition-colors focus:outline-2 focus:outline-emerald-600"
                 >
                   {name}
                 </Tab>
