@@ -11,7 +11,7 @@ const LogoSection = () => {
   return (
     <div className="h-auto m-26">
       <div className="my-12 py-8">
-        <p className="text-center text-lg mb-24 font-semibold text-emerald-600 uppercase tracking-wider">
+        <p className="text-center font-bold text-lg mb-24 text-emerald-600 uppercase tracking-wider">
           Our Certified Partners & Trusted Brands
         </p>
         <div className="mt-6 mx-16 flex justify-between items-center gap-12 flex-wrap">
