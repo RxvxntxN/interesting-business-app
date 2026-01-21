@@ -2,7 +2,7 @@ import React from "react";
 
 const ContactSection = () => {
   return (
-    <div className="relative bg-white p-4 sm:p-6 md:p-8">
+    <div className="relative bg-white p-4 sm:p-4 md:p-4">
       <div className="w-full flex flex-col lg:flex-row py-8 sm:py-12 md:py-16 lg:py-20 px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 rounded-lg sm:rounded-xl bg-stone-100 gap-8 md:gap-12 lg:gap-16 xl:gap-20">
         <div className="flex-1 flex flex-col items-start justify-center lg:px-4 xl:px-8 max-w-2xl mx-auto lg:mx-0">
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-4 sm:mb-6 text-gray-900 leading-tight">

@@ -18,7 +18,7 @@ const IntroSection = () => {
   ];
 
   return (
-    <div className="relative min-h-screen bg-white p-4 sm:p-6">
+    <div className="relative min-h-screen bg-white p-4 sm:p-4">
       <div className="relative w-full h-full bg-stone-100 rounded-md sm:rounded-lg lg:rounded-xl">
         <div className="bg-white ml-4 sm:ml-8 md:ml-12 lg:ml-16 pb-2 flex justify-center max-w-xs sm:max-w-sm text-2xl sm:text-3xl md:text-4xl font-bold rounded-b-lg">
           Introduction
