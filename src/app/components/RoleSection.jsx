@@ -18,7 +18,7 @@ const RoleSection = () => {
         </div>
 
         <div className="flex flex-col sm:flex-row justify-center items-center mt-8 md:mt-12 lg:mt-16 gap-4 md:gap-6 lg:gap-8 w-full max-w-2xl">
-          <div className="border rounded-lg p-4 sm:p-6 w-full sm:w-auto min-w-[200px] max-w-[300px] hover:shadow-lg transition-shadow duration-300">
+          <div className="border rounded-lg p-4 sm:p-6 w-full sm:w-auto min-w-50 max-w-75 hover:shadow-lg transition-shadow duration-300">
             <div className="flex flex-col items-center">
               <MdOutlineVideoSettings className="h-12 w-12 sm:h-14 sm:w-14 md:h-16 md:w-16 text-gray-600" />
               <p className="text-center mt-3 sm:mt-4 text-gray-600 font-bold text-base sm:text-lg">
@@ -27,7 +27,7 @@ const RoleSection = () => {
             </div>
           </div>
 
-          <div className="border rounded-lg p-4 sm:p-6 w-full sm:w-auto min-w-[200px] max-w-[300px] hover:shadow-lg transition-shadow duration-300">
+          <div className="border rounded-lg p-4 sm:p-6 w-full sm:w-auto min-w-50 max-w-75 hover:shadow-lg transition-shadow duration-300">
             <div className="flex flex-col items-center">
               <IoLaptopOutline className="h-12 w-12 sm:h-14 sm:w-14 md:h-16 md:w-16 text-gray-600" />
               <p className="text-center mt-3 sm:mt-4 text-gray-600 font-bold text-base sm:text-lg">
