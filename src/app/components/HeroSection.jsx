@@ -48,7 +48,7 @@ const HeroSection = () => {
                 <div
                   className="w-full h-full bg-cover bg-center"
                   style={{ backgroundImage: `url(${src})` }}
-                />http://192.168.68.101:3000
+                />
               </SwiperSlide>
             ))}
           </Swiper>
