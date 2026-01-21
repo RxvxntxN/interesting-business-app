@@ -22,7 +22,7 @@ const NavigationBar = () => {
           <Link href="#" className="flex items-center gap-2">
             <Image src={CarService} width={42} height={42} alt="Logo" />
             <p className="font-bold text-gray-600 text-base sm:text-lg">
-              Car Services
+              Car Garages
             </p>
           </Link>
 
